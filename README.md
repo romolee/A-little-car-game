@@ -6,6 +6,7 @@ This is a small game. The user interface will generate a car and a four-line roa
 
 ## Project Architecture:
 -Car process
+
     * control car's turning.
     
 -User interface process
